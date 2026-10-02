@@ -1,7 +1,3 @@
--- Meesho Reseller Growth & Alert Intelligence Pipeline
--- SQLite queries for Part 1.
-
--- 1. Monthly revenue by category
 SELECT month,
        category,
        ROUND(SUM(quantity * unit_price), 2) AS revenue,
