@@ -1,0 +1,16 @@
+month,category,revenue,n_orders,mom_growth,significant_change
+April,Beauty & Personal Care,40737.01,49,,false
+April,Ethnic Wear,104520.77,64,,false
+April,Home & Kitchen,100446.23,53,,false
+April,Kids Wear,59847.27,55,,false
+April,Western Wear,113866.15,79,,false
+May,Beauty & Personal Care,35542.11,41,-0.127523,false
+May,Ethnic Wear,185107.61,104,0.771013,true
+May,Home & Kitchen,91152.57,44,-0.092524,false
+May,Kids Wear,45793.78,47,-0.234823,true
+May,Western Wear,86998.18,64,-0.235961,true
+June,Beauty & Personal Care,37559.07,52,0.056748,false
+June,Ethnic Wear,76371.53,52,-0.587421,true
+June,Home & Kitchen,129971.22,73,0.425865,true
+June,Kids Wear,56737.78,57,0.238984,true
+June,Western Wear,97415.64,66,0.119743,false
